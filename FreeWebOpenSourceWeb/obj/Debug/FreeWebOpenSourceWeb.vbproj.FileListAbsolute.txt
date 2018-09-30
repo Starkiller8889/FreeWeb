@@ -1,0 +1,25 @@
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\bin\Debug\FreeWebOpenSourceWeb.exe.config
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\bin\Debug\FreeWebOpenSourceWeb.exe
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\bin\Debug\FreeWebOpenSourceWeb.pdb
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\bin\Debug\FreeWebOpenSourceWeb.xml
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.vbprojAssemblyReference.cache
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.Resources.resources
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.vbproj.GenerateResource.cache
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.vbproj.CoreCompileInputs.cache
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.exe
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.xml
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.pdb
+C:\Users\jim\AppData\Local\Temporary Projects\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.Home.resources
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\bin\Debug\FreeWebOpenSourceWeb.exe.config
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\bin\Debug\FreeWebOpenSourceWeb.exe
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\bin\Debug\FreeWebOpenSourceWeb.pdb
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\bin\Debug\FreeWebOpenSourceWeb.xml
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.vbprojAssemblyReference.cache
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.Home.resources
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.Resources.resources
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.vbproj.GenerateResource.cache
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.vbproj.CoreCompileInputs.cache
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.exe
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.xml
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.pdb
+E:\Programs\VisualStudio\projects&saves\oof\FreeWebOpenSourceWeb\FreeWebOpenSourceWeb\obj\Debug\FreeWebOpenSourceWeb.settings.resources
